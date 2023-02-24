@@ -1,6 +1,9 @@
-.newCssClass{
-    background-color: black;
+.h1Style {
+    border: 1px solid red;
 }
-.buttonFeature{
-    background-color: blanchedalmond;
+.buttonStyle {
+    border: 1px solid blue;
+}
+.listStyle{
+    list-style-type: circle;
 }
