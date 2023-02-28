@@ -1,0 +1,24 @@
+header {
+    border: 1px solid red;
+}
+nav {
+    border: 2px dotted blue;
+}
+main {
+    border: 2px solid green;
+}
+article{
+    border: 2px solid red;
+}
+article h2 {
+    color: blueviolet;
+}
+article section{
+    border: 2px solid yellow;
+}
+aside {
+    border: 2px solid maroon;
+}
+footer{
+    border: 2px solid magenta;
+}
